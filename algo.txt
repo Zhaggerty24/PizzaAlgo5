@@ -1,6 +1,10 @@
 Step 1 Choose Pizza Place
 Step 2 Choose pick up or delivery
 Step 3 Choose pizza 
+Step 3a pick toppings
+Step 3b pick size of pizza
 Step 4 Choose wings
+Step 4a pick wings flavor
 Step 5 Choose drink
+Step 5a pick drink flavor and size
 Step 6 Order and enjoy
